@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @titushere
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning different languages such as Java and CSS 
-- 💞️ I’m looking to collaborate on any begineer level projects
+- 👋 Hi, I’m Titus Chacko
+- 👀 I’m interested in both front and backend development 
+- 💞️ Would be glad to contribute on any projects
 - 📫 Reach me at: tituschacko70@gmail.com
 
 <!---
