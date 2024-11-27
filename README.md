@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Titus Chacko
-- 👀 I’m interested in both front and backend development 
+- 👀 I’m interested in fullstack development 
 - 💞️ Would be glad to contribute on any projects
 - 📫 Reach me at: tituschacko70@gmail.com
 Update 500
